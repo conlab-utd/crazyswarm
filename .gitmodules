@@ -11,3 +11,6 @@
 [submodule "ros_ws/src/crazyflie_tools"]
 	path = ros_ws/src/crazyflie_tools
 	url = https://github.com/whoenig/crazyflie_tools.git
+[submodule "ros_ws/src/crazyswarm/scripts/crazyswarm_based_projects"]
+	path = ros_ws/src/crazyswarm/scripts/crazyswarm_based_projects
+	url = git@github.com:conlab-utd/crazyswarm_based_projects.git
